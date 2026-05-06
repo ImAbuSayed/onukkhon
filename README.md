@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/onukkhon/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Onukkhon](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Onukkhon](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধকারে খুঁজি আমি তোমার ওই চোখ
+> আমার বুকের ভেতর শুধু প্রেমেরই শ্লোক
+> মায়াবী এই রাতে তুমি কাছে এসে যাও
+> তোমার ওই হৃদয়ে আমায় বেঁধে নাও
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
